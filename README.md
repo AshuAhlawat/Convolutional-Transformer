@@ -14,8 +14,12 @@
     - Self Attention Heads : 4
     - Transformer Blocks : 4
     - Embedding Dimension : 64
-    - Parameters : 210K
+    - Parameters : 208K
     - Avg Time per epoch : 26 sec
+
+#### WITH Convolution Enriched Encodings
+    - Parameters : 245K
+    - Avg Time per epoch : 27
 
 ![Accuracy Comparison](accuracy_comparison.png)
 
